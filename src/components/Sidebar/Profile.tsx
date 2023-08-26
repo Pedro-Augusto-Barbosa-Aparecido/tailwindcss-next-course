@@ -11,8 +11,10 @@ export function Profile() {
       />
 
       <div className="flex flex-1 flex-col truncate">
-        <span className="text-sm font-medium text-zinc-700">Pedro Augusto</span>
-        <span className="truncate text-sm text-zinc-500">
+        <span className="text-sm font-medium text-zinc-700 dark:text-zinc-100">
+          Pedro Augusto
+        </span>
+        <span className="truncate text-sm text-zinc-500 dark:text-zinc-400">
           pedro.augustobarbosa.aparecido@gmail.com
         </span>
       </div>
